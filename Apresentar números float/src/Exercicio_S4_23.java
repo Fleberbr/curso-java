@@ -1,3 +1,4 @@
+
 import java.util.Locale;
 
 public class Exercicio_S4_23 {
@@ -7,15 +8,15 @@ public class Exercicio_S4_23 {
 
 		String product1 = "Computer";
 		String product2 = "Officer desk";
-		
+
 		int age = 30;
 		int code= 5290;
 		char gender = 'F';
-		
+
 		double price1 = 2100.0;
 		double price2 = 650.50;
 		double measure = 53.234567;
-		
+
 		System.out.println("Products:");
 		System.out.printf(product1 + ", which price is $ %.2f\n", price1); //One way
 		System.out.printf("%s, which price is $ %.2f\n",product2, price2); //another way
@@ -26,7 +27,7 @@ public class Exercicio_S4_23 {
 		System.out.printf("Rouded (three decimal places: %.3f %n",measure);
 		Locale.setDefault(Locale.US); //change , to .
 		System.out.printf("US decimal point: %.3f %n",measure);
-		
+
 	}
 
 }
