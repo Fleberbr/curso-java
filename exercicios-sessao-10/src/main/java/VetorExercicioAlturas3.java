@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VetorExercicioTres {
+public class VetorExercicioAlturas3 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
