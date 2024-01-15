@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6d82250-ec74-4b14-a220-72d466fdfeb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-13/src/main/java/application/principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-13/src/main/java/entitiesEnum/OrdemStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-13/src/main/java/modelEntities/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-13/src/main/java/modelEntities/ItemPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-13/src/main/java/modelEntities/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-13/src/main/java/modelEntities/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/src/main/java/entities/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/src/main/java/entities/ProdutoImportado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/src/main/java/entities/ProdutoUsado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicios-sessao-14/src/main/java/entities/tipoProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apresentar números float/bin/Exercicio_S4_23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Vetores/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/ListaExerciciosFixacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/ListaExerciciosFixacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/MatrizExercicio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/MatrizExercicio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/SubStringExercicio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/SubStringExercicio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioAbaixoMedia7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioAbaixoMedia7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioAlturas11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioAlturas11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioAlturas3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioAlturas3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioAlturas9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioAlturas9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioMaiorPosicao5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioMaiorPosicao5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioMediaPares8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioMediaPares8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioNegativos1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioNegativos1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioNumerosPares4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioNumerosPares4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioPensionista12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioPensionista12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioSomaVetores10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioSomaVetores10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioSomaVetores2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioSomaVetores2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioSomaVetores6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-10/target/classes/VetorExercicioSomaVetores6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-11/target/classes/CalculoEntreDatas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-11/target/classes/CalculoEntreDatas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-11/target/classes/FormatandoDataHoraGlobalParaLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-11/target/classes/FormatandoDataHoraGlobalParaLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-11/target/classes/FormatandoObjetosdeDatasParaTexto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-11/target/classes/FormatandoObjetosdeDatasParaTexto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicios-sessao-11/target/classes/InstanciandoDatas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicios-sessao-11/target/classes/InstanciandoDatas.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ahGbLlxx2FIRDLTz8oJXT6pOwp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/elton/OneDrive/Documentos/Projetos programação/ws-eclipse/curso-java/exercicios-sessao-11"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6d82250-ec74-4b14-a220-72d466fdfeb2" name="Changes" comment="" />
+      <created>1704763467937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704763467937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

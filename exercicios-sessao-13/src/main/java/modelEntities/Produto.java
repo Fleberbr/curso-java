@@ -1,26 +1,26 @@
-package entities;
+package modelEntities;
 
 public class Produto {
 
     private String nome;
     private Double price;
+    public Produto (){};
 
-    private Produto (){};
-
-    private Produto(String nome, Double price) {
+    public Produto(String nome, Double price) {
         this.nome = nome;
         this.price = price;
     }
-    private String getNome() {
+    public String getNome() {
         return nome;
     }
-    private void setNome(String nome) {
+    public void setNome(String nome) {
         this.nome = nome;
     }
-    private Double getPrice() {
+    public Double getPrice() {
         return price;
     }
-    private void setPrice(Double price) {
+    public void setPrice(Double price) {
         this.price = price;
     }
 }
+

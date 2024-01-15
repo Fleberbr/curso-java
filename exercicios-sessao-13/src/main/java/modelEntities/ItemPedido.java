@@ -1,4 +1,4 @@
-package entities;
+package modelEntities;
 
 public class ItemPedido {
 
@@ -7,40 +7,42 @@ public class ItemPedido {
     private Produto produto;
 
     private ItemPedido(){};
-
     private ItemPedido(Integer quantidade, Double price, Produto produto){
         this.quantidade = quantidade;
         this.price = price;
         this.produto = produto;
     };
 
-    private Integer getQuantidade() {
+    public Integer getQuantidade() {
         return quantidade;
     }
-    private void setQuantidade(Integer quantidade) {
+    public void setQuantidade(Integer quantidade) {
         this.quantidade = quantidade;
     }
-
-    private Produto getProduto() {
+    public Double getPrice() {
+        return price;
+    }
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+    public Produto getProduto() {
         return produto;
     }
-
-    private void setProduto(Produto produto) {
+    public void setProduto(Produto produto) {
         this.produto = produto;
     }
 
     public Double subTotal (){
-         return quantidade * price;
+         return quantidade * getProduto().getPrice();
     };
 
-
-    public String toString() {
-        return produto.
+    /*public String toString() {
+        return produto.getNome()
                 + ", $"
                 + String.format("%.2f", price)
                 + ", Quantity: "
                 + quantidade +
                 ", Subtotal: $"
                 + String.format("%.2f", subTotal());
-    }
+    }*/
 }

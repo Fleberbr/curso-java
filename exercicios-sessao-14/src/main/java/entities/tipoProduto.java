@@ -1,2 +1,7 @@
-package entities;public enum tipoProduto {
+package entities;
+
+public enum tipoProduto {
+    USADO,
+    COMUM,
+    IMPORTADO;
 }
