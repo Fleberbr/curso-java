@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Apresentar números float/src"/>
+	<classpathentry kind="src" path="Atividade_4_estrutura_dados/src"/>
+	<classpathentry kind="src" path="composition1-java/src"/>
+	<classpathentry kind="src" path="composition2-java/src"/>
+	<classpathentry kind="src" path="composition3-java/src"/>
+	<classpathentry kind="src" path="Construtores_encapsulamento_ModificadoresAcessos/src"/>
+	<classpathentry kind="src" path="curso_programacao_primeiro_programa/src"/>
+	<classpathentry kind="src" path="curso-java/Apresentar números float/src"/>
+	<classpathentry kind="src" path="curso-java/Atividade_4_estrutura_dados/src"/>
+	<classpathentry kind="src" path="curso-java/Construtores_encapsulamento_ModificadoresAcessos/src"/>
+	<classpathentry kind="src" path="curso-java/curso_programacao_primeiro_programa/src"/>
+	<classpathentry kind="src" path="curso-java/Estrututa_de_repetição/src"/>
+	<classpathentry kind="src" path="curso-java/Exercicio_sessao_9/src"/>
+	<classpathentry kind="src" path="curso-java/For_1/src"/>
+	<classpathentry kind="src" path="curso-java/for1/src"/>
+	<classpathentry kind="src" path="curso-java/IF_else_ternario/src"/>
+	<classpathentry kind="src" path="curso-java/Membros_estaticos/src"/>
+	<classpathentry kind="src" path="curso-java/Projeto08_exercicios/src"/>
+	<classpathentry kind="src" path="curso-java/SubString/src"/>
+	<classpathentry kind="src" path="curso-java/Teste_processamento/src"/>
+	<classpathentry kind="src" path="curso-java/Teste_Scanner/src"/>
+	<classpathentry kind="src" path="curso-java/testes_matemáticos/src"/>
+	<classpathentry kind="src" path="curso-java/Vetores/src"/>
+	<classpathentry kind="src" path="Estrututa_de_repetição/src"/>
+	<classpathentry kind="src" path="exercicios-sessao-10/src/main/java"/>
+	<classpathentry kind="src" path="exercicios-sessao-11/src/main/java"/>
+	<classpathentry kind="src" path="exercicios-sessao-13/src/main/java"/>
+	<classpathentry kind="src" path="exercicios-sessao-8/src"/>
+	<classpathentry kind="src" path="exercicios-sessao-9/src"/>
+	<classpathentry kind="src" path="IF_else_ternario/src"/>
+	<classpathentry kind="src" path="Membros_estaticos/src"/>
+	<classpathentry kind="src" path="SubString/src"/>
+	<classpathentry kind="src" path="Teste_processamento/src"/>
+	<classpathentry kind="src" path="Teste_Scanner/src"/>
+	<classpathentry kind="src" path="testes_matemáticos/src"/>
+	<classpathentry kind="src" path="Vetores/src"/>
+	<classpathentry kind="output" path="Apresentar números float/bin"/>
+</classpath>
