@@ -6,10 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Exercicio-1_sessao-18-interface" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="exercicios-sessao-11-Tratamento_datas" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>

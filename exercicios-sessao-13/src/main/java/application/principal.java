@@ -35,7 +35,7 @@ public class principal {
 
         for (int i =1 ; i <= quantidadePedidos ; i++){
             System.out.print("Entre com o #" + i + " dados do item: ");
-            System.out.println(");
+            System.out.println("");
         }
     }
 }
