@@ -30,5 +30,5 @@ public class Contrato {
     public ArrayList<Parcelamento> getParcelamento() {
         return parcelamento;
     }
-    
+
 }

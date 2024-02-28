@@ -8,7 +8,7 @@ public class PaypalService implements PagamentoOnlineService{
     }
 
     @Override
-    public double juros(Double montante, Integer meses) {
-       return montante * (meses / 100);
+    public double juros(Double parcela, Integer meses) {
+       return parcela * meses / 100;
     }
 }
