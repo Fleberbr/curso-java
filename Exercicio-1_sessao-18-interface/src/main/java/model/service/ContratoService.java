@@ -30,7 +30,5 @@ public class ContratoService {
         }
     }
 
-    public void listarParcelas (ArrayList<Parcelamento> listaParcelamento){
-        listaParcelamento.forEach(System.out::println);
-    }
+
 }

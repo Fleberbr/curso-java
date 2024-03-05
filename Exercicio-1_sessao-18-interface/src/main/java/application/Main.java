@@ -13,12 +13,16 @@ public class Main {
     public static void main(String[] args) {
 
         DateTimeFormatter format = DateTimeFormatter.ofPattern("dd/MM/yyyy");
-        Contrato contrato = new Contrato(8028, LocalDate.parse("25/06/2018",format),600);
+        Contrato contrato = new Contrato(8028, LocalDate.parse("28/02/2024",format),600);
         Integer numeroParcelas = 3;
 
         ContratoService contratoService = new ContratoService(new PaypalService());
         contratoService.processarContrato(contrato,numeroParcelas);
-        contratoService.listarParcelas(contrato.getParcelamento());
+
+        for (Parcelamento parcelamento : contrato.getParcelamento()){
+            System.out.println(parcelamento);
+        }
+
 
     }
 }

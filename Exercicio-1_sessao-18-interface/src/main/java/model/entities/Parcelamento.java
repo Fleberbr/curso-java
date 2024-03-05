@@ -26,6 +26,6 @@ public class Parcelamento {
 
     @Override
     public String toString() {
-        return data.format(format) + " - " + valor ;
+        return data.format(format) + " - " + String.format("%.2f",valor);
     }
 }
